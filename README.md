@@ -210,7 +210,7 @@ Possible extensions include:
 
 **Hena Šehović**
 **Berina Juković**
-**Berin Žunić**
+**Berin Žunić **
 
 International University of Sarajevo
 
